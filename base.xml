@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.0" release="1">
+ <description><text>White Box Cyclopedia</text><author>bagfullofdice</author></description>
+ <importruleset source="CoreRPG" />
+ <script name="WBCManager" file="scripts/manager_wbc.lua" />
+ <includefile source="campaign/records.xml" />
+</root>
